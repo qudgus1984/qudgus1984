@@ -1,6 +1,5 @@
-안녕하세요, iOS 개발자 Cody 입니다.
+안녕하세요, iOS 개발자 Den 입니다.
 
-Sangmyung Univ 🦌
 iOS Dev 📱
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
